@@ -1,0 +1,30 @@
+body{
+    background-color: thistle;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+h1{
+    text-align: center;
+    padding-top: 50px;
+    color: brown;
+}
+h3{
+    padding-left: 150px;
+    padding-top: 30px;
+    color: cadetblue;
+}
+div{
+    padding-left: 50px;
+}
+#button{
+    background-color: rgb(47, 255, 238);
+    color: rgb(44, 65, 44);
+    font-size: 20px;
+    padding-left: 0;
+    border-radius: 5px;
+    height: 70px;
+    width: 170px;
+}
