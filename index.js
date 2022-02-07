@@ -14,7 +14,7 @@ if (q5=="if not") {c++}
     test1.style.display= "none";
     
      if (c==1) {
-         result.textContent="your score is 20%. not pleasing lets do it again!!"
+         result.textContent="your score is 20%. there you go being an idiot! lets do it again!!"
      }
     else if (c==2) {
         result.textContent= "your score is 40%. below average but still can do it. try again"
